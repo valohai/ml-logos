@@ -57,6 +57,6 @@ Font family: DejaVu Sans Mono
 Torch
 -----
 
-Based on [https://github.com/torch/torch.github.io/blob/master/static/torch-logo.png].
+Based on [torch-logo.png](https://github.com/torch/torch.github.io/blob/master/static/torch-logo.png).
 
 Font family: Titling Gothic FB Thin
