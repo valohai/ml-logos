@@ -60,3 +60,10 @@ Torch
 Based on [torch-logo.png](https://github.com/torch/torch.github.io/blob/master/static/torch-logo.png).
 
 Font family: Titling Gothic FB Thin
+
+MXNet
+-----
+
+Based on [mxnet2.png](https://github.com/dmlc/dmlc.github.io/blob/28d87fec08006cf93eafb7341b503681ca743c21/img/logo-m/mxnet2.png)
+
+Font Family: Titillium Web Regular Italic / Titillium Web Semibold Italic
