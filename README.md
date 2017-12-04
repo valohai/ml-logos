@@ -67,3 +67,8 @@ MXNet
 Based on [mxnet2.png](https://github.com/dmlc/dmlc.github.io/blob/28d87fec08006cf93eafb7341b503681ca743c21/img/logo-m/mxnet2.png)
 
 Font Family: Titillium Web Regular Italic / Titillium Web Semibold Italic
+
+CUDA
+-----
+
+Based on [NVIDIA_CUDA_V_2C_r.jpg](http://cms.ipressroom.com.s3.amazonaws.com/219/files/20149/NVIDIA_CUDA_V_2C_r.jpg)
