@@ -72,3 +72,18 @@ CUDA
 -----
 
 Based on [NVIDIA_CUDA_V_2C_r.jpg](http://cms.ipressroom.com.s3.amazonaws.com/219/files/20149/NVIDIA_CUDA_V_2C_r.jpg)
+
+Matplotlib
+-----
+
+Based on [logo2.svg](http://matplotlib.org/_static/logo2.svg)
+
+Sympy
+-----
+
+Based on [sympy.svg](https://github.com/sympy/sympy/blob/master/doc/src/logo/sympy.svg)
+
+Scikit-learn
+-----
+
+Based on [scikit-learn-logo.svg](https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo.svg)
