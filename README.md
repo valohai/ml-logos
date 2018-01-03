@@ -7,6 +7,8 @@ The logos are or may be trademarks of their respective owners.
 
 Aside from the NumPy and Pytorch logos, the logos were hand-vectorized from raster sources with utmost love and caring.
 
+Maintained by [Valohai machine learning platform](https://valohai.com/).
+
 Caffe
 -----
 
