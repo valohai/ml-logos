@@ -89,3 +89,9 @@ Scikit-learn
 -----
 
 Based on [scikit-learn-logo.svg](https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo.svg)
+
+
+Caffe2
+-----
+
+Based on an Illustrator image trace of the original .png logo.
