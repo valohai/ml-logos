@@ -89,3 +89,9 @@ Scikit-learn
 -----
 
 Based on [scikit-learn-logo.svg](https://github.com/scikit-learn/scikit-learn/blob/master/doc/logos/scikit-learn-logo.svg)
+
+
+PaddlePaddle
+-----
+
+Original creator's version.
