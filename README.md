@@ -95,3 +95,9 @@ Caffe2
 -----
 
 Based on an Illustrator image trace of the original .png logo.
+
+
+PaddlePaddle
+------------
+
+Original creator's version.
