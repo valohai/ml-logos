@@ -108,3 +108,9 @@ DL4J
 Reconstructed by hand from [DL4J.png](https://github.com/deeplearning4j/deeplearning4j-docs/blob/a4abc5c7a19e89e26d235f92ba0f896e9cde245b/assets/themes/thedocs/img/DL4J.png).
 
 Color from [logo.png](https://github.com/deeplearning4j/deeplearning4j-docs/blob/a4abc5c7a19e89e26d235f92ba0f896e9cde245b/images/logo.png).
+
+OpenVINO Toolkit
+----------------
+
+OpenVINO seems to have no logo, so this is just the logotype, as on [the site](https://software.intel.com/en-us/openvino-toolkit?),
+set in Intel Clear Pro using Intel blue (#0071c5).
