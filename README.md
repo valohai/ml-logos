@@ -114,3 +114,13 @@ OpenVINO Toolkit
 
 OpenVINO seems to have no logo, so this is just the logotype, as on [the site](https://software.intel.com/en-us/openvino-toolkit?),
 set in Intel Clear Pro using Intel blue (#0071c5).
+
+
+ImageNet
+--------
+
+Based on [the official logo](http://image-net.org/index_files/logo.jpg).
+
+Set in slightly fattened (using stroke width) Myriad Pro Regular.
+
+The fattening caused minor artifacts around the corners of glyphs, but it doesn't look too bad.
