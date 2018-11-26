@@ -112,8 +112,10 @@ Color from [logo.png](https://github.com/deeplearning4j/deeplearning4j-docs/blob
 OpenVINO Toolkit
 ----------------
 
-OpenVINO seems to have no logo, so this is just the logotype, as on [the site](https://software.intel.com/en-us/openvino-toolkit?),
+openvino-toolkit.svg is based on the logotype, as on [the site](https://software.intel.com/en-us/openvino-toolkit?),
 set in Intel Clear Pro using Intel blue (#0071c5).
+
+openvino-2.svg is based on [this logo](https://01.org/sites/default/files/openvino-square.png). The text is set in Montreal Medium, which is not exactly the same, but very close.
 
 
 ImageNet
