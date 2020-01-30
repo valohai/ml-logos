@@ -126,3 +126,8 @@ Based on [the official logo](http://image-net.org/index_files/logo.jpg).
 Set in slightly fattened (using stroke width) Myriad Pro Regular.
 
 The fattening caused minor artifacts around the corners of glyphs, but it doesn't look too bad.
+
+Pandas
+------
+
+Via https://github.com/pandas-dev/pandas/blob/761bceb77d44aa63b71dda43ca46e8fd4b9d7422/web/pandas/static/img/pandas.svg
