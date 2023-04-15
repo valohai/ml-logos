@@ -9,6 +9,11 @@ Aside from the NumPy and Pytorch logos, the logos were hand-vectorized from rast
 
 Maintained by [Valohai machine learning platform](https://valohai.com/).
 
+Update
+----- 
+
+A website [svgrepo](https://www.svgrepo.com/) has majority of development related libraries and ML/DL libraries SVG logos.
+
 Caffe
 -----
 
