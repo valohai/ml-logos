@@ -34,7 +34,7 @@ Color: #D00000
 Numpy
 -----
 
-From the [Numpy repository](https://github.com/numpy/numpy/blob/7e7f4adab814b223f7f917369a72757cd28b10cb/branding/icons/numpylogo.svg), with some fixes and minification applied.
+From the [Numpy site](https://numpy.org/images/logo.svg).
 
 Pytorch
 -------
